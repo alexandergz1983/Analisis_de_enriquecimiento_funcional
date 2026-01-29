@@ -1,7 +1,5 @@
 **Introducción al análisis de enriquecimiento funcional**
-<p style="font-family:'Times New Roman'">
 
 La secuenciación de ARN unicelular (scRNA-seq) ha transformado nuestra comprensión de la diversidad celular, permitiendo a los investigadores explorar la heterogeneidad celular con un nivel de detalle sin precedentes. Para comprender la gran cantidad de datos generados por scRNA-seq, los investigadores suelen recurrir a tres enfoques analíticos clave: el análisis de ontología génica (GO), el análisis de vías génicas y el análisis de enriquecimiento de conjuntos de genes (GSEA). En conjunto, estos tres métodos se engloban en la amplia categoría de análisis denominada análisis de enriquecimiento funcional, que implica diversas técnicas computacionales para identificar e interpretar las funciones, procesos y vías biológicas sobrerrepresentadas o significativas en un conjunto determinado de genes o proteínas.
-<p style="font-family:'Times New Roman'">
 
 En este artículo, exploraremos el propósito, los beneficios y las aplicaciones de cada enfoque, utilizando como ejemplo la investigación del músculo esquelético. Sin embargo, cabe destacar que todos los análisis aquí presentados tienen una mayor relevancia en otros campos, como la investigación del cáncer. Además, les mostraré cómo realizar cada análisis utilizando datos reales de scRNA-seq.
